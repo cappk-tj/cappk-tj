@@ -26,6 +26,7 @@ I have developed and finished 3 projects on Roblox completely solo.
 🎮 Into video games, single player & mutliplayer.  
 ✨ I like creating all sorts of things!  
 📝 Hobbies: gym
+☕ I like coffee
 
 <!--
 **cappk-tj/cappk-tj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
