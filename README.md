@@ -18,7 +18,6 @@ I have developed and finished 3 projects on Roblox completely solo.
 ### Currently Learning
 - Unity
 - C#
-- Python?
 - General game development outside of Roblox
 
 ---
