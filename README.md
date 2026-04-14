@@ -4,6 +4,8 @@ I'm CappK, a Roblox Developer based in New Zealand.
 
 Gameplay & systems focused developer specializing in progression, gameplay loops and scalable systems
 
+I have developed and finished 3 projects on Roblox completely solo.
+
 ---
 
 ### Tools & Tech
@@ -22,9 +24,9 @@ Gameplay & systems focused developer specializing in progression, gameplay loops
 ---
 
 ### About me!
-- Into video games, single player & mutliplayer.
-- I like creating all sorts of things!
-- Hobbies: gym
+🎮 Into video games, single player & mutliplayer.  
+✨ I like creating all sorts of things!  
+📝 Hobbies: gym
 
 <!--
 **cappk-tj/cappk-tj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
