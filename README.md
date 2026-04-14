@@ -25,7 +25,7 @@ I have developed and finished 3 projects on Roblox completely solo.
 ### About me!
 🎮 Into video games, single player & mutliplayer.  
 ✨ I like creating all sorts of things!  
-📝 Hobbies: gym
+📝 Hobbies: gym  
 ☕ I like coffee
 
 <!--
