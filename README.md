@@ -9,11 +9,14 @@ Gameplay & systems focused developer specializing in progression, gameplay loops
 ### Tools & Tech
 - Roblox Studio
 - Luau
+- Unity & C# (currently learning)
 
 ---
 
 ### Currently Learning
 - Unity
+- C#
+- Python?
 - General game development outside of Roblox
 
 ---
