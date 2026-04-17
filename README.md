@@ -4,7 +4,7 @@ I'm CappK, a Roblox Developer based in New Zealand.
 
 Gameplay & systems focused developer specializing in progression, gameplay loops and scalable systems
 
-I have developed and finished and publicly published 3 projects on Roblox completely solo.
+I have developed & published 3 complete projects on Roblox as an indie developer.
 
 ---
 
