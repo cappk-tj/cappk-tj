@@ -28,6 +28,8 @@ I have developed and finished and publicly published 3 projects on Roblox comple
 📝 Hobbies: gym  
 ☕ I like coffee
 
+I will make my portfolio soon ... just finishing my last game on Roblox
+
 <!--
 **cappk-tj/cappk-tj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
