@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm CappK, a Roblox Developer based in New Zealand.
+I'm CappK, a former Roblox Developer based in New Zealand.
 
 Gameplay & systems focused developer
 
