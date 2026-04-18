@@ -28,7 +28,7 @@ I have developed & published 3 complete projects on Roblox as an indie developer
 💪 I enjoy going gym!  
 ☕ I like coffee
 
-I will make my portfolio soon ... just finishing my last game on Roblox
+I've added 1 project out of the 3 I competed.
 
 <!--
 **cappk-tj/cappk-tj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
