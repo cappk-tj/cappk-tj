@@ -25,7 +25,7 @@ I have developed & published 3 complete projects on Roblox as an indie developer
 ### About me!
 🎮 Into video games, single player & mutliplayer.  
 ✨ I like creating  
-📝 Hobbies: gym  
+💪 I enjoy going gym! 
 ☕ I like coffee
 
 I will make my portfolio soon ... just finishing my last game on Roblox
