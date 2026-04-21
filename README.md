@@ -11,13 +11,13 @@ I have developed & published 3 complete projects on Roblox as an indie developer
 ### Tools & Tech
 - Roblox Studio
 - Luau
-- Unity & C# (currently learning)
+- Godot & GDScript
 
 ---
 
 ### Currently Learning
-- Unity
-- C#
+- Godot
+- GDScript
 - General game development outside of Roblox
 
 ---
